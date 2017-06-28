@@ -509,6 +509,7 @@
 				1CD329921EFE049900858A6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1CD329931EFE049900858A6D /* Build configuration list for PBXNativeTarget "DiscountCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +518,7 @@
 				1CD329951EFE049900858A6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1CD329961EFE049900858A6D /* Build configuration list for PBXNativeTarget "DiscountCalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +527,7 @@
 				1CD329981EFE049900858A6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
